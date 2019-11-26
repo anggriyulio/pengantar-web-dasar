@@ -10,9 +10,9 @@ Semua pihak bebas menggunakan material pada repositori ini sesuai dengan lisensi
 
 ## Daftar Isi
 
-- HTML
-- CSS
-- Javascript
-- PHP
-- Database (MySQL)
+- [HTML](charpters/../chapters/html/README.md)
+- [CSS](chapters/css/README.md)
+- [Javascript](chapters/javascript/README.md)
+- [PHP](chapters/php/README.md)
+- [Database (MySQL)](chapters/database-mysql/README.md)
 
