@@ -10,7 +10,7 @@ Semua pihak bebas menggunakan material pada repositori ini sesuai dengan lisensi
 
 ## Daftar Isi
 
-- [HTML](charpters/../chapters/html/README.md)
+- [HTML](chapters/html/README.md)
 - [CSS](chapters/css/README.md)
 - [Javascript](chapters/javascript/README.md)
 - [PHP](chapters/php/README.md)
