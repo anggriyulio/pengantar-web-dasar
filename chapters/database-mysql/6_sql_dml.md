@@ -55,3 +55,18 @@ DELETE FROM pengguna where id=1;
 ```
 Perintah di atas akan menghapus record yang mempunyai nilai `id` adalah `1`.
 
+### SELECT (Menampilkan Record)
+
+Menampilkan record menggunakan perintah `SELECT` dengan struktur:
+```
+SELECT [namakolom] FROM namatabel;
+```
+
+Untuk ingin menampilkan seluruh kolom, maka gunakan tanda `* (baca: all)`  seperti:
+```
+SELECT * FROM namatabel;
+```
+
+Untuk menampilkan data dengan kondisi tertentu, maka gunakan perintah `WHERE`.
+
+> Untuk melihat daftar operator yang bisa digunakan dalam struktur `WHERE` silahkan merujuk ke halaman [WHERE CLAUSE](7_sql_where.md)
